@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Whitepace Responsive",
-  description: "This Clone is Created by Shehzad Rahim",
+  description: "This Figma Design is Created by Shehzad Rahim",
 };
 
 export default function RootLayout({
